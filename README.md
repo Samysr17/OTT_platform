@@ -9,3 +9,4 @@ Clone of the Netflix landing page
  
  You can checkout the website here:-
  https://samratflix.netlify.app
+https://samysr17.github.io/OTT_platform/
